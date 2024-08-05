@@ -1,6 +1,4 @@
 
-Here's the README file formatted nicely with sections for screenshots:
-
 Tic Tac Toe Game
 Welcome to the Tic Tac Toe Game project! This repository contains a simple yet engaging implementation of the classic Tic Tac Toe game using JavaScript.
 
@@ -17,8 +15,6 @@ Usage
 Screenshots
 
 Contributing
-
-License
 
 Contact
 
@@ -64,9 +60,6 @@ Draw
 
 Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
 For any questions or feedback, please contact:
